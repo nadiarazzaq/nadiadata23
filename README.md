@@ -4,4 +4,4 @@ I chose this question because I was interested in how flyers felt about having t
 
 This chart shows how respondents feel about people reclining their seat on a plane. It reveals that a large portion of respondents feel that it is "not rude at all" -- more so than those who believe it is "somewhat rude" or "very rude."
 
-![Most respondents believe it is not rude at all to recline your seat on a plane]([https://github.com/nadiarazzaq/nadiadata23/blob/0c2666009835dc2e78dbf06e2c44a99166f73656/gXpCR-is-it-rude-to-recline-your-seat-on-a-plane-%20(2).png](https://datawrapper.dwcdn.net/gXpCR/1/))
+![Most respondents believe it is not rude at all to recline your seat on a plane](https://github.com/nadiarazzaq/nadiadata23/blob/2ea3f9b699c2b7eca92736ff4a18896197ce6086/gXpCR-is-it-rude-to-recline-your-seat-on-a-plane-%20(2).png)
